@@ -1,5 +1,5 @@
 # Vacation API's
-## Jack Harvey 
+## Creator: Jack Harvey 
 
 # Overview 
 Analyzing weather data from an open weather source website to identify locations with specific weather trends that are input by the user.
