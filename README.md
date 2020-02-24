@@ -12,6 +12,8 @@ import time
 from scipy.stats import linregress
 import openweathermapy.core as ow
 from citipy import citipy
+import gmaps
+import os
 
 
 # Running the Code
@@ -21,7 +23,7 @@ The program will fist identify a list of over 600 randomly identified coordinate
 This weather data is used to develope a scatter plot for all of the data found in each category.
 ![](Output/Fig1.png) ![](Output/Fig2.png)
 
-## Vaction
+## Vacation
 This file used the output file developed to create a heat map of the world based on the current Humidity levels identified. Then the user will input their desired weather trends to create a new dataframe. These coordinates are then used by google's api url to identify the nearest hotel to the coordinates and adds this to the new dataframe.
 
 ![](Output/Geo-Map.png)
