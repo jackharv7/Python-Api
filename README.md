@@ -5,16 +5,16 @@
 Analyzing weather data from an open weather source website to identify locations with specific weather trends that are input by the user.
 
 ## Libraries 
-** import matplotlib.pyplot as plt
-** import pandas as pd
-** import numpy as np
-** import requests
-** import time
-** from scipy.stats import linregress
-** import openweathermapy.core as ow
-** from citipy import citipy
-** import gmaps
-** import os
+ * import matplotlib.pyplot as plt
+ * import pandas as pd
+ * import numpy as np
+ * import requests
+ * import time
+ * from scipy.stats import linregress
+ * import openweathermapy.core as ow
+ * from citipy import citipy
+ * import gmaps
+ * import os
 
 
 ## Running the Code
