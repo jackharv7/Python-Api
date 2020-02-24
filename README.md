@@ -24,6 +24,8 @@ This weather data is used to develope a scatter plot for all of the data found i
 ## Vaction
 This file used the output file developed to create a heat map of the world based on the current Humidity levels identified. Then the user will input their desired weather trends to create a new dataframe. These coordinates are then used by google's api url to identify the nearest hotel to the coordinates and adds this to the new dataframe.
 
+![](Output/Geo-Map.png)
+
 # Sources
 * Weather Data: 
   * https://openweathermap.org
