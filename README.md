@@ -29,3 +29,5 @@ This file used the output file developed to create a heat map of the world based
 # Sources
 * Weather Data: 
   * https://openweathermap.org
+* Google API:
+  * https://maps.googleapis.com/maps/api/place/nearbysearch/json
