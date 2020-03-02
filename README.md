@@ -24,8 +24,9 @@ The program will fist identify a list of over 600 randomly identified coordinate
 
 ![](Output/Fig1.png)![](Output/Fig2.png) 
 
-North Humidity![](Output/north_hum.png)
-South Humidity![](Output/south_hum.png)
+North Humidity ![](Output/north_hum.png)
+
+South Humidity ![](Output/south_hum.png)
 
 
 
