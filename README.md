@@ -22,7 +22,7 @@ Analyzing weather data from an open weather source website to identify locations
 # Weather
 The program will fist identify a list of over 600 randomly identified coordinates to ensure that a new cities are identified each time the program is run. Citipy is used to identify the city name and adds this to a list that will be used to identify a specific URL path to extract the weather data from. A CSV file is developed from this list including the City, Cloudiness, Country, Date, Humidity, Coordinates, Max Temp, Wind Speed.
 
-![](Output/Fig1.png)![](Output/Fig2.png)North Humidity![](Output/north_hum.png)South Humidity![](Output/south_hum.png)
+![](Output/Fig1.png)![](Output/Fig2.png) North Humidity![](Output/north_hum.png)South Humidity![](Output/south_hum.png)
 
 
 
