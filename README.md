@@ -24,6 +24,8 @@ The program will fist identify a list of over 600 randomly identified coordinate
 
 ![](Output/Fig1.png) 
 ![](Output/Fig2.png)
+![](Output/north_hum.png)
+![](Output/south_hum.png)
 
 # Vacation
 This file used the output file developed to create a heat map of the world based on the current Humidity levels identified. Then the user will input their desired weather trends to create a new dataframe. These coordinates are then used by google's api url to identify the nearest hotel to the coordinates and adds this to the new dataframe.
